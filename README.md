@@ -1,0 +1,1 @@
+This repository contains the official implementation of MSR-TA-Net: Multi-Scale Residual Network with Triplet Attention for Retinal Disease Detection. Pretrained models are available at: https://drive.google.com/drive/folders/1Ri0QRzLXNRaaSSuElnbX9lpyszUDYIQv?usp=drive_link
